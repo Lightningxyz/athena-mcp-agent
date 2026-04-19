@@ -1,6 +1,6 @@
 # Athena MCP Agent
 
-**Athena** is a high-performanc coding agent CLI designed for **grounded code understanding**, **autonomous patch execution**, and **safe validation loops**.
+**Athena** is a high-performance coding agent CLI designed for **grounded code understanding**, **autonomous patch execution**, and **safe validation loops**.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
