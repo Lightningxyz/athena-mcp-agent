@@ -112,9 +112,6 @@ Athena is designed for safe local execution:
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. Since Athena focuses on zero-dependency architecture, we ask that all new features prioritize standard library primitives.
 
 ## License
 
