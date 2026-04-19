@@ -1,0 +1,3 @@
+# Athena MCP Agent requires NO third-party dependencies.
+# It uses standard Python libraries (urllib, sqlite3, etc.) for maximum portability.
+# Python 3.10+ is required.
