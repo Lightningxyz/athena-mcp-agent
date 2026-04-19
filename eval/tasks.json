@@ -1,0 +1,20 @@
+[
+  {
+    "name": "context_manager_overview",
+    "query": "Explain how context_manager ranks and extracts files.",
+    "path": ".",
+    "expected_keywords": ["rank", "extract", "score"]
+  },
+  {
+    "name": "autofix_capability",
+    "query": "What does autofix mode do?",
+    "path": ".",
+    "expected_keywords": ["plan", "validation", "patch"]
+  },
+  {
+    "name": "config_validation",
+    "query": "What safety constraints are configured?",
+    "path": ".",
+    "expected_keywords": ["allowlist", "risk", "validation"]
+  }
+]
